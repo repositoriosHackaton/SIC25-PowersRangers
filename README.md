@@ -1,1 +1,0 @@
-# SIC25-PowersRangers
