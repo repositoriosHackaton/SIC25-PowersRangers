@@ -51,21 +51,15 @@ En el codigo hay "Exception" que se imprimen en el terminal indicando cual es er
 
 -Estadísticos (Valores, gráficos, …)
 
+![grafica1](https://github.com/user-attachments/assets/e48c1af4-44a2-4284-a98f-78b71885667f)
+
+![Grafica](https://github.com/user-attachments/assets/532a2ee9-ed2e-46ae-a7b9-316961da7894)
 
 * Funcionalidades extra:
 
-Ejem 1: Integración del proyecto en una pág web
+Integración del proyecto en una pág web
 - Tecnología/Herramientas usadas …
+  Flask, Html, Css, javascript, react
 - Arquitectura (img)
-
-Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem 4: Desarrollo de interfaz gráfica de usuario
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem …: …
-- Tecnología/Herramientas usadas …
+  ![code](https://github.com/user-attachments/assets/360627d0-0f0f-42f7-ad07-f6d9c249d8f8)
 
