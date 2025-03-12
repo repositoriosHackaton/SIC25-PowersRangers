@@ -44,6 +44,7 @@ El sistema consta de cuatro componentes principales: el frontend, el backend, el
 Diferentes Datasets provenientes de Kaggel
 
 -Limpieza de datos (img que lo valide)
+![code](https://github.com/user-attachments/assets/85264278-51e7-4184-8ecf-ea9046e834e1)
 
 
 -Manejo excepciones/control errores
