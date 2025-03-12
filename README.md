@@ -58,7 +58,7 @@ En el codigo hay "Exception" que se imprimen en el terminal indicando cual es er
 
 * Funcionalidades extra:
 
-Integración del proyecto en una pág web
+-Integración del proyecto en una pág web
 - Tecnología/Herramientas usadas …
   Flask, Html, Css, javascript, react
 - Arquitectura (img)
