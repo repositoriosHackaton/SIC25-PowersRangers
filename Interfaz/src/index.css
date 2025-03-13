@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Paleta de colores moderna */
+  --primary-100: #2D3047;
+  --primary-200: #484D6D;
+  --primary-300: #8B95C9;
+  --accent-100: #FF8552;
+  --accent-200: #E6553A;
+  --text-100: #1A1A1A;
+  --text-200: #4A4A4A;
+  --bg-100: #F9F9F9;
+  --bg-200: #EFEFEF;
+  --bg-300: #DDDDDD;
+  --shadow-color: rgba(0, 0, 0, 0.06);
+}
+
+@layer base {
+  body {
+    @apply bg-bg-100 text-text-100 font-sans;
+  }
+}
+
+@layer components {
+  .book-card {
+    @apply bg-white rounded-xl overflow-hidden shadow-md border border-bg-200 transition-all duration-300 cursor-pointer hover:shadow-lg hover:-translate-y-1 hover:border-primary-200;
+  }
+  
+  .book-card-expanded {
+    @apply md:col-span-2 lg:col-span-3;
+  }
+
+  .btn-primary {
+    @apply bg-primary-100 text-white rounded-lg font-medium transition hover:bg-primary-200 hover:transform hover:-translate-y-1 active:translate-y-0 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .input-field {
+    @apply w-full p-3 bg-white border border-bg-300 rounded-lg text-text-100 focus:outline-none focus:border-primary-200 focus:ring focus:ring-primary-200 focus:ring-opacity-10;
+  }
+
+  .chat-bubble-user {
+    @apply bg-accent-100 text-white rounded-2xl p-3 max-w-[80%];
+  }
+
+  .chat-bubble-bot {
+    @apply bg-bg-200 text-text-100 rounded-2xl p-3 max-w-[80%];
+  }
+}
