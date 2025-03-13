@@ -46,7 +46,8 @@ Diferentes Datasets provenientes de Kaggel
 
 -Limpieza de datos (img que lo valide)
 
-![code](https://github.com/user-attachments/assets/85264278-51e7-4184-8ecf-ea9046e834e1)
+![WhatsApp Image 2025-03-13 at 5 09 09 PM](https://github.com/user-attachments/assets/83471d5f-864b-4b50-9989-3b22f17d1e98)
+
 
 
 -Manejo excepciones/control errores
@@ -66,6 +67,6 @@ En el codigo hay "Exception" que se imprimen en el terminal indicando cual es er
   Flask, Html, Css, javascript, react
 - Arquitectura (img)
 
- ![WhatsApp Image 2025-03-13 at 5 09 09 PM](https://github.com/user-attachments/assets/d7984f4d-6625-4fa4-8936-5891e43b58a1)
+![code](https://github.com/user-attachments/assets/85264278-51e7-4184-8ecf-ea9046e834e1)
 
 
