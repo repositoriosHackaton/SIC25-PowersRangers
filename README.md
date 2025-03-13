@@ -65,7 +65,7 @@ En el codigo hay "Exception" que se imprimen en el terminal indicando cual es er
 - Tecnología/Herramientas usadas …
   Flask, Html, Css, javascript, react
 - Arquitectura (img)
-- 
+
  ![WhatsApp Image 2025-03-13 at 5 09 09 PM](https://github.com/user-attachments/assets/d7984f4d-6625-4fa4-8936-5891e43b58a1)
 
 
