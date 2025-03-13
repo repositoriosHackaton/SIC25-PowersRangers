@@ -33,7 +33,8 @@ El sistema consta de cuatro componentes principales: el frontend, el backend, el
 
 -API de Imágenes (TextoImagenApiPrueba2.py): Genera imágenes basadas en el título del libro proporcionado.
 
-![flujo](https://github.com/user-attachments/assets/b8593ac7-8102-4996-a7d2-7e3dc99fab53)
+![Captura de pantalla 2025-03-13 170755](https://github.com/user-attachments/assets/94288254-58c8-434a-bed7-dabc4195e22f)
+
 
 
 
@@ -44,10 +45,12 @@ El sistema consta de cuatro componentes principales: el frontend, el backend, el
 Diferentes Datasets provenientes de Kaggel
 
 -Limpieza de datos (img que lo valide)
+
 ![code](https://github.com/user-attachments/assets/85264278-51e7-4184-8ecf-ea9046e834e1)
 
 
 -Manejo excepciones/control errores
+
 En el codigo hay "Exception" que se imprimen en el terminal indicando cual es error que ocurre
 
 -Estadísticos (Valores, gráficos, …)
@@ -62,5 +65,7 @@ En el codigo hay "Exception" que se imprimen en el terminal indicando cual es er
 - Tecnología/Herramientas usadas …
   Flask, Html, Css, javascript, react
 - Arquitectura (img)
-  ![code](https://github.com/user-attachments/assets/360627d0-0f0f-42f7-ad07-f6d9c249d8f8)
+- 
+ ![WhatsApp Image 2025-03-13 at 5 09 09 PM](https://github.com/user-attachments/assets/d7984f4d-6625-4fa4-8936-5891e43b58a1)
+
 
